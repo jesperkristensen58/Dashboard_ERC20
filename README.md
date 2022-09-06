@@ -18,6 +18,7 @@ Run the following commands:
 ```bash
 > npx next build
 > npx next export
+> cd out/
 > now
 ```
 Now is Vercel.com and will require you to create and account.

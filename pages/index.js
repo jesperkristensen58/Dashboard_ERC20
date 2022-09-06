@@ -4,6 +4,7 @@ import { ethers } from "ethers";
 import React from 'react';
 import { Line } from 'react-chartjs-2';
 import { Network, Alchemy } from 'alchemy-sdk';
+// we need these imports here (even though variables are unused) for the charts to work:
 import { Chart as ChartJS } from 'chart.js/auto' // eslint-disable-line no-unused-vars
 import { Chart }            from 'react-chartjs-2' // eslint-disable-line no-unused-vars
 
