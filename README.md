@@ -1,6 +1,10 @@
 # Ethereum Client Dashboard
 
-How to run:
+## Dashboard
+
+The dashboard is live here: https://dashy-sable.vercel.app/
+
+## How to Run the Code:
 
 For the full list of commands see `./package.json`. The main command to fire up the dashboard is:
 
